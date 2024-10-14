@@ -1,0 +1,19 @@
+{
+    "warframes": [
+      {
+        "IdFrame": 1,
+        "Nama": "Excalibur",
+        "Weapon": "Skana",
+        "Melee": "Jat Kittag",
+        "Sentinel": "Taxon"
+      },
+      {
+        "IdFrame": 2,
+        "Nama": "Volt",
+        "Weapon": "Boltor",
+        "Melee": "Galatine",
+        "Sentinel": "Carrier"
+      }
+    ]
+  }
+  
